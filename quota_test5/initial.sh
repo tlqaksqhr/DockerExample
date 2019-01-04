@@ -1,1 +1,1 @@
-docker run --rm --mount type=tmpfs,destination=/app,tmpfs-size=134217728 -it quota_test5 /bin/bash
+docker run --rm -it quota_test5 /bin/bash
